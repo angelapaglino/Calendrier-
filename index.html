@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Calendrier secret</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="top">
+  <h1>Calendrier secret</h1>
+  <p id="countdown" class="status"></p>
+  <p id="status" class="status"></p>
+</header>
+
+<main class="wrap">
+  <div id="grid" class="grid"></div>
+</main>
+
+<!-- MODAL -->
+<div id="modal" class="modal hidden">
+  <div class="modal-card">
+    <button id="close" class="close">✕</button>
+    <h2 id="mTitle"></h2>
+    <p id="mDate" class="meta"></p>
+    <img id="mImage" class="mimg hidden" />
+    <p id="mText"></p>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
