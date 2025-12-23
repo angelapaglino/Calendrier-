@@ -1,12 +1,12 @@
 {
-  "2025-12-23": {"title": "Test 🎁","text": "joyeux anniversaire mommy !! JE T'AIME <3 ","image": "assets/test.png"},
-  "2025-12-24": { "title": "Jour 1", "text": "Première surprise ✨", "image": "assets/1.png" },
-  "2025-12-25": { "title": "Jour 2", "text": "Joyeux Noël 🎄", "image": "assets/2.png" },
-  "2025-12-26": { "title": "Jour 3", "text": "je t'aime", "image": "assets/3.png"},
-  "2025-12-27": { "title": "Jour 4", "text": "gros bisous","image": "assets/4.png" },
-  "2025-12-28": { "title": "Jour 5", "text": "bonne journée mommy","image": "assets/5.png" },
-  "2025-12-29": { "title": "Jour 6", "text": "n'oublie pas d'aller marcher dehors ;)","image": "assets/6.png" },
-  "2025-12-30": { "title": "Jour 7", "text": "je n'ai plus d'inspiration","image": "assets/7.png" },
-  "2025-12-31": { "title": "Jour 8", "text": "Dernier jour de l’année… 🥂","image": "assets/8.png" },
-  "2026-01-01": { "title": "Jour 9", "text": "Bonne année 🎆", "image": "assets/final.png" }
+  "2025-12-23": {"title": "Jour 1","text": "joyeux anniversaire mommy !! JE T'AIME <3 ","image": "assets/test.png"},
+  "2025-12-24": { "title": "Jour 2", "text": "Première surprise ✨", "image": "assets/1.png" },
+  "2025-12-25": { "title": "Jour 3", "text": "Joyeux Noël 🎄", "image": "assets/2.png" },
+  "2025-12-26": { "title": "Jour 4", "text": "je t'aime", "image": "assets/3.png"},
+  "2025-12-27": { "title": "Jour 5", "text": "gros bisous","image": "assets/4.png" },
+  "2025-12-28": { "title": "Jour 6", "text": "bonne journée mommy","image": "assets/5.png" },
+  "2025-12-29": { "title": "Jour 7", "text": "n'oublie pas d'aller marcher dehors ;)","image": "assets/6.png" },
+  "2025-12-30": { "title": "Jour 8", "text": "je n'ai plus d'inspiration","image": "assets/7.png" },
+  "2025-12-31": { "title": "Jour 9", "text": "Dernier jour de l’année… 🥂","image": "assets/8.png" },
+  "2026-01-01": { "title": "Jour 10", "text": "Bonne année 🎆", "image": "assets/final.png" }
 }
