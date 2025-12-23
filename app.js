@@ -1,4 +1,4 @@
-const START = "2025-12-24";
+const START = "2025-12-23";
 const END = "2026-01-01";
 const TZ = "Europe/Zurich";
 
